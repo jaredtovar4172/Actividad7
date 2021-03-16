@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\Ej7_EcuacionesLineales\Ej7_EcuacionesLineales\obj\Debug\Ej7_EcuacionesLineales.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Ej7_EcuacionesLineales\Ej7_EcuacionesLineales\obj\Debug\Ej7_EcuacionesLineales.Form1.resources
+C:\Users\jared\source\repos\Ej7_EcuacionesLineales\Ej7_EcuacionesLineales\obj\Debug\Ej7_EcuacionesLineales.Properties.Resources.resources
+C:\Users\jared\source\repos\Ej7_EcuacionesLineales\Ej7_EcuacionesLineales\obj\Debug\Ej7_EcuacionesLineales.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Ej7_EcuacionesLineales\Ej7_EcuacionesLineales\obj\Debug\Ej7_EcuacionesLineales.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Ej7_EcuacionesLineales\Ej7_EcuacionesLineales\bin\Debug\Ej7_EcuacionesLineales.exe.config
+C:\Users\jared\source\repos\Ej7_EcuacionesLineales\Ej7_EcuacionesLineales\bin\Debug\Ej7_EcuacionesLineales.exe
+C:\Users\jared\source\repos\Ej7_EcuacionesLineales\Ej7_EcuacionesLineales\bin\Debug\Ej7_EcuacionesLineales.pdb
+C:\Users\jared\source\repos\Ej7_EcuacionesLineales\Ej7_EcuacionesLineales\obj\Debug\Ej7_EcuacionesLineales.exe
+C:\Users\jared\source\repos\Ej7_EcuacionesLineales\Ej7_EcuacionesLineales\obj\Debug\Ej7_EcuacionesLineales.pdb
